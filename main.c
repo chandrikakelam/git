@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  echo "Hi ..!!this is chandrika"
 }
 
 Initial Security()
 {
- //Sample Code
+  echo "security applieb by intellipaat"
 }
 
 
